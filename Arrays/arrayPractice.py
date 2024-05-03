@@ -1,5 +1,3 @@
-#   Created by Elshad Karimov on 04/04/2020.
-#   Copyright © 2020 AppMillers. All rights reserved.
 from array import *
 import numpy as np
 
